@@ -1,0 +1,151 @@
+product_id,product_name,category,base_price,cost_price,stock_quantity,supplier
+P0001,Sports Product 1,Sports,505.78,338.87,375,Supplier_14
+P0002,Sports Product 2,Sports,775.48,463.52,357,Supplier_19
+P0003,Electronics Product 3,Electronics,793.17,542.3,122,Supplier_6
+P0004,Home & Kitchen Product 4,Home & Kitchen,1766.29,991.46,341,Supplier_3
+P0005,Books Product 5,Books,1455.81,976.37,465,Supplier_16
+P0006,Sports Product 6,Sports,1984.86,1123.13,188,Supplier_3
+P0007,Toys Product 7,Toys,219.4,138.21,166,Supplier_14
+P0008,Sports Product 8,Sports,338.03,156.24,22,Supplier_15
+P0009,Electronics Product 9,Electronics,155.66,94.7,383,Supplier_15
+P0010,Sports Product 10,Sports,693.88,360.68,99,Supplier_13
+P0011,Electronics Product 11,Electronics,31.37,13.63,469,Supplier_5
+P0012,Home & Kitchen Product 12,Home & Kitchen,1343.89,724.72,236,Supplier_3
+P0013,Electronics Product 13,Electronics,1101.37,520.6,486,Supplier_15
+P0014,Clothing Product 14,Clothing,946.87,458.04,82,Supplier_6
+P0015,Toys Product 15,Toys,45.95,19.77,150,Supplier_4
+P0016,Beauty Product 16,Beauty,1485.48,669.26,343,Supplier_1
+P0017,Books Product 17,Books,553.77,294.71,91,Supplier_7
+P0018,Books Product 18,Books,78.55,47.33,110,Supplier_15
+P0019,Books Product 19,Books,105.03,62.01,267,Supplier_4
+P0020,Sports Product 20,Sports,1383.79,737.83,306,Supplier_1
+P0021,Electronics Product 21,Electronics,1547.1,974.88,475,Supplier_8
+P0022,Home & Kitchen Product 22,Home & Kitchen,1818.43,836.47,8,Supplier_14
+P0023,Electronics Product 23,Electronics,1978.69,991.59,98,Supplier_3
+P0024,Clothing Product 24,Clothing,1917.9,822.74,427,Supplier_6
+P0025,Books Product 25,Books,342.42,179.67,55,Supplier_11
+P0026,Home & Kitchen Product 26,Home & Kitchen,1128.49,515.57,106,Supplier_18
+P0027,Sports Product 27,Sports,1878.46,819.46,109,Supplier_4
+P0028,Home & Kitchen Product 28,Home & Kitchen,653.5,264.34,334,Supplier_11
+P0029,Electronics Product 29,Electronics,784.48,421.76,33,Supplier_9
+P0030,Books Product 30,Books,1251.58,517.13,453,Supplier_7
+P0031,Sports Product 31,Sports,610.05,353.62,52,Supplier_18
+P0032,Toys Product 32,Toys,1981.16,1297.94,87,Supplier_9
+P0033,Electronics Product 33,Electronics,1203.74,835.91,356,Supplier_13
+P0034,Books Product 34,Books,1849.86,1168.04,68,Supplier_11
+P0035,Clothing Product 35,Clothing,1274.35,847.69,162,Supplier_16
+P0036,Electronics Product 36,Electronics,676.86,394.31,299,Supplier_15
+P0037,Sports Product 37,Sports,1026.94,639.32,257,Supplier_19
+P0038,Books Product 38,Books,1976.88,928.7,315,Supplier_4
+P0039,Home & Kitchen Product 39,Home & Kitchen,480.43,253.93,124,Supplier_20
+P0040,Electronics Product 40,Electronics,129.25,66.22,151,Supplier_7
+P0041,Clothing Product 41,Clothing,757.74,449.05,121,Supplier_20
+P0042,Sports Product 42,Sports,1481.12,738.5,142,Supplier_11
+P0043,Books Product 43,Books,1576.07,649.16,405,Supplier_14
+P0044,Books Product 44,Books,1627.29,1017.33,117,Supplier_11
+P0045,Home & Kitchen Product 45,Home & Kitchen,492.08,276.45,464,Supplier_8
+P0046,Toys Product 46,Toys,1377.83,848.54,311,Supplier_13
+P0047,Beauty Product 47,Beauty,650.06,346.29,3,Supplier_3
+P0048,Toys Product 48,Toys,988.37,678.12,26,Supplier_5
+P0049,Clothing Product 49,Clothing,259.87,117.49,281,Supplier_7
+P0050,Clothing Product 50,Clothing,1019.77,538.31,239,Supplier_10
+P0051,Clothing Product 51,Clothing,1446.13,684.71,90,Supplier_20
+P0052,Clothing Product 52,Clothing,613.17,351.3,495,Supplier_7
+P0053,Home & Kitchen Product 53,Home & Kitchen,1726.23,939.68,486,Supplier_12
+P0054,Sports Product 54,Sports,761.66,412.22,216,Supplier_17
+P0055,Beauty Product 55,Beauty,1472.51,924.88,419,Supplier_16
+P0056,Electronics Product 56,Electronics,1526.24,806.19,42,Supplier_10
+P0057,Beauty Product 57,Beauty,1079.02,610.57,89,Supplier_9
+P0058,Sports Product 58,Sports,932.67,499.99,192,Supplier_18
+P0059,Beauty Product 59,Beauty,966.88,483.41,366,Supplier_16
+P0060,Clothing Product 60,Clothing,317.9,145.24,6,Supplier_17
+P0061,Books Product 61,Books,1453.44,795.67,473,Supplier_14
+P0062,Sports Product 62,Sports,1941.28,993.83,250,Supplier_10
+P0063,Books Product 63,Books,1975.17,832.28,453,Supplier_2
+P0064,Electronics Product 64,Electronics,775.8,441.96,99,Supplier_14
+P0065,Home & Kitchen Product 65,Home & Kitchen,1544.83,966.25,178,Supplier_17
+P0066,Books Product 66,Books,982.36,595.85,356,Supplier_2
+P0067,Books Product 67,Books,776.81,409.54,126,Supplier_8
+P0068,Sports Product 68,Sports,78.67,50.66,323,Supplier_1
+P0069,Books Product 69,Books,1334.69,593.09,309,Supplier_15
+P0070,Books Product 70,Books,303.26,143.81,296,Supplier_6
+P0071,Electronics Product 71,Electronics,242.29,103.63,364,Supplier_13
+P0072,Sports Product 72,Sports,1415.08,979.58,41,Supplier_17
+P0073,Clothing Product 73,Clothing,1753.25,788.52,218,Supplier_9
+P0074,Books Product 74,Books,611.42,422.07,337,Supplier_13
+P0075,Beauty Product 75,Beauty,622.88,326.07,448,Supplier_3
+P0076,Electronics Product 76,Electronics,1276.0,807.72,176,Supplier_5
+P0077,Home & Kitchen Product 77,Home & Kitchen,1499.97,1018.49,203,Supplier_10
+P0078,Electronics Product 78,Electronics,1974.18,1273.18,0,Supplier_4
+P0079,Electronics Product 79,Electronics,1549.75,814.16,213,Supplier_10
+P0080,Books Product 80,Books,867.59,392.95,95,Supplier_5
+P0081,Clothing Product 81,Clothing,978.08,538.71,56,Supplier_15
+P0082,Beauty Product 82,Beauty,1630.6,743.05,30,Supplier_6
+P0083,Toys Product 83,Toys,1520.74,726.62,461,Supplier_14
+P0084,Sports Product 84,Sports,1257.41,738.51,444,Supplier_6
+P0085,Electronics Product 85,Electronics,593.32,304.56,141,Supplier_3
+P0086,Home & Kitchen Product 86,Home & Kitchen,69.04,32.48,248,Supplier_4
+P0087,Electronics Product 87,Electronics,131.5,82.26,3,Supplier_19
+P0088,Toys Product 88,Toys,1975.36,847.53,267,Supplier_1
+P0089,Sports Product 89,Sports,1209.94,842.2,389,Supplier_9
+P0090,Sports Product 90,Sports,951.73,476.92,219,Supplier_11
+P0091,Home & Kitchen Product 91,Home & Kitchen,1366.9,687.45,161,Supplier_8
+P0092,Home & Kitchen Product 92,Home & Kitchen,1333.51,684.8,29,Supplier_12
+P0093,Toys Product 93,Toys,667.21,286.94,233,Supplier_13
+P0094,Books Product 94,Books,1672.49,1133.13,13,Supplier_20
+P0095,Electronics Product 95,Electronics,1739.32,841.55,358,Supplier_8
+P0096,Home & Kitchen Product 96,Home & Kitchen,909.32,550.92,445,Supplier_16
+P0097,Beauty Product 97,Beauty,832.12,379.76,326,Supplier_11
+P0098,Electronics Product 98,Electronics,1271.22,841.59,496,Supplier_11
+P0099,Books Product 99,Books,894.17,520.43,204,Supplier_20
+P0100,Toys Product 100,Toys,171.92,90.84,476,Supplier_16
+P0101,Books Product 101,Books,1715.63,1152.15,375,Supplier_13
+P0102,Home & Kitchen Product 102,Home & Kitchen,1218.28,747.52,445,Supplier_17
+P0103,Beauty Product 103,Beauty,1571.88,966.71,16,Supplier_5
+P0104,Sports Product 104,Sports,1595.67,782.52,344,Supplier_18
+P0105,Toys Product 105,Toys,938.94,628.08,488,Supplier_4
+P0106,Sports Product 106,Sports,1328.66,627.49,108,Supplier_6
+P0107,Toys Product 107,Toys,1888.98,1152.23,54,Supplier_14
+P0108,Books Product 108,Books,68.15,46.25,167,Supplier_13
+P0109,Toys Product 109,Toys,567.91,349.69,340,Supplier_16
+P0110,Books Product 110,Books,254.97,112.37,273,Supplier_16
+P0111,Electronics Product 111,Electronics,1593.13,796.31,114,Supplier_19
+P0112,Toys Product 112,Toys,1848.46,775.24,175,Supplier_13
+P0113,Books Product 113,Books,1488.51,919.17,334,Supplier_18
+P0114,Toys Product 114,Toys,879.55,413.4,132,Supplier_4
+P0115,Home & Kitchen Product 115,Home & Kitchen,184.48,78.73,379,Supplier_19
+P0116,Clothing Product 116,Clothing,1491.79,648.68,188,Supplier_5
+P0117,Toys Product 117,Toys,633.61,325.71,377,Supplier_1
+P0118,Home & Kitchen Product 118,Home & Kitchen,133.15,74.65,433,Supplier_13
+P0119,Sports Product 119,Sports,646.09,329.19,347,Supplier_5
+P0120,Beauty Product 120,Beauty,1330.85,768.21,54,Supplier_13
+P0121,Electronics Product 121,Electronics,1081.2,581.88,74,Supplier_10
+P0122,Toys Product 122,Toys,445.62,269.15,75,Supplier_20
+P0123,Home & Kitchen Product 123,Home & Kitchen,300.28,180.05,410,Supplier_2
+P0124,Beauty Product 124,Beauty,647.08,356.36,352,Supplier_4
+P0125,Home & Kitchen Product 125,Home & Kitchen,1993.73,1220.08,244,Supplier_7
+P0126,Sports Product 126,Sports,590.08,407.12,30,Supplier_11
+P0127,Clothing Product 127,Clothing,1657.49,767.72,375,Supplier_8
+P0128,Books Product 128,Books,1474.09,997.88,397,Supplier_6
+P0129,Toys Product 129,Toys,980.13,507.26,417,Supplier_6
+P0130,Electronics Product 130,Electronics,1100.41,551.55,347,Supplier_16
+P0131,Home & Kitchen Product 131,Home & Kitchen,1517.85,785.21,270,Supplier_10
+P0132,Home & Kitchen Product 132,Home & Kitchen,1395.79,640.01,438,Supplier_18
+P0133,Sports Product 133,Sports,203.67,101.23,405,Supplier_19
+P0134,Toys Product 134,Toys,1612.09,1055.83,363,Supplier_10
+P0135,Sports Product 135,Sports,1312.72,752.38,226,Supplier_16
+P0136,Home & Kitchen Product 136,Home & Kitchen,1795.46,831.17,411,Supplier_7
+P0137,Books Product 137,Books,1305.96,664.3,438,Supplier_19
+P0138,Electronics Product 138,Electronics,1359.85,947.2,75,Supplier_13
+P0139,Sports Product 139,Sports,1362.1,613.58,28,Supplier_4
+P0140,Home & Kitchen Product 140,Home & Kitchen,1948.58,884.44,26,Supplier_4
+P0141,Beauty Product 141,Beauty,1303.69,753.56,496,Supplier_5
+P0142,Books Product 142,Books,1447.88,685.57,60,Supplier_8
+P0143,Sports Product 143,Sports,982.37,595.7,488,Supplier_6
+P0144,Books Product 144,Books,1492.95,944.67,407,Supplier_3
+P0145,Toys Product 145,Toys,932.71,602.03,195,Supplier_9
+P0146,Books Product 146,Books,1309.86,668.29,61,Supplier_4
+P0147,Electronics Product 147,Electronics,252.88,149.81,465,Supplier_17
+P0148,Clothing Product 148,Clothing,55.82,31.92,293,Supplier_16
+P0149,Home & Kitchen Product 149,Home & Kitchen,1390.51,595.65,303,Supplier_6
+P0150,Sports Product 150,Sports,973.54,577.68,222,Supplier_10
