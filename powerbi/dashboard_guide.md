@@ -133,10 +133,3 @@ Return Rate % =
 
 ---
 
-## Suggested Insights to Highlight on Resume
-
-1. **"Identified 30% customer churn rate concentrated in the North region"**
-2. **"Built Random Forest model achieving 1.00 AUC to predict at-risk customers"**
-3. **"Discovered Electronics drives 28% of revenue but has highest return rate"**
-4. **"Designed Power BI dashboard with 4 pages and 12+ DAX measures for exec reporting"**
-5. **"Segmented 2,000 customers using RFM analysis into 6 behavioral groups"**
